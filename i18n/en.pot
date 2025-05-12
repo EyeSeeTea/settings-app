@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2025-04-02T12:55:54.216Z\n"
-"PO-Revision-Date: 2025-04-02T12:55:54.216Z\n"
+"POT-Creation-Date: 2025-05-12T18:38:49.646Z\n"
+"PO-Revision-Date: 2025-05-12T18:38:49.646Z\n"
 
 msgid "Failed to load: {{error}}"
 msgstr "Failed to load: {{error}}"
@@ -628,6 +628,9 @@ msgstr "Application left-side footer"
 msgid "Application right-side footer"
 msgstr "Application right-side footer"
 
+msgid "Style (android)"
+msgstr "Style (android)"
+
 msgid "Style"
 msgstr "Style"
 
@@ -768,6 +771,24 @@ msgstr "6 months"
 
 msgid "12 months"
 msgstr "12 months"
+
+msgid "14 months"
+msgstr "14 months"
+
+msgid "16 months"
+msgstr "16 months"
+
+msgid "18 months"
+msgstr "18 months"
+
+msgid "20 months"
+msgstr "20 months"
+
+msgid "22 months"
+msgstr "22 months"
+
+msgid "24 months"
+msgstr "24 months"
 
 msgid "Send reminders to users before their password expires"
 msgstr "Send reminders to users before their password expires"

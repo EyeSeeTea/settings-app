@@ -590,6 +590,12 @@ const settingsKeyMapping = {
             3: i18n.t('3 months'),
             6: i18n.t('6 months'),
             12: i18n.t('12 months'),
+            14: i18n.t('14 months'),
+            16: i18n.t('16 months'),
+            18: i18n.t('18 months'),
+            20: i18n.t('20 months'),
+            22: i18n.t('22 months'),
+            24: i18n.t('24 months'),
         },
     },
     credentialsExpiryAlert: {
